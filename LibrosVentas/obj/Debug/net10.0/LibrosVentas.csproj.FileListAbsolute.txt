@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\bin\Debug\net10.0\LibrosVentas.exe
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\bin\Debug\net10.0\LibrosVentas.deps.json
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\bin\Debug\net10.0\LibrosVentas.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\bin\Debug\net10.0\LibrosVentas.dll
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\bin\Debug\net10.0\LibrosVentas.pdb
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\LibrosVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\LibrosVentas.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\LibrosVentas.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\LibrosVentas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\LibrosVentas.dll
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\refint\LibrosVentas.dll
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\LibrosVentas.pdb
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\LibrosVentas.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6Semana9\LibrosVentas\obj\Debug\net10.0\ref\LibrosVentas.dll

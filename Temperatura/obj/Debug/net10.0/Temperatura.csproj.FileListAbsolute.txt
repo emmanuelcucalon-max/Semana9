@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\bin\Debug\net10.0\Temperatura.exe
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\bin\Debug\net10.0\Temperatura.deps.json
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\bin\Debug\net10.0\Temperatura.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\bin\Debug\net10.0\Temperatura.dll
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\bin\Debug\net10.0\Temperatura.pdb
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\Temperatura.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\Temperatura.dll
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\refint\Temperatura.dll
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\Temperatura.pdb
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\Temperatura.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6Semana9\Temperatura\obj\Debug\net10.0\ref\Temperatura.dll

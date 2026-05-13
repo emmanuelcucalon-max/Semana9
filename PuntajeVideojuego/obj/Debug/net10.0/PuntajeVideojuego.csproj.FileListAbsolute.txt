@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\bin\Debug\net10.0\PuntajeVideojuego.exe
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\bin\Debug\net10.0\PuntajeVideojuego.deps.json
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\bin\Debug\net10.0\PuntajeVideojuego.runtimeconfig.json
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\bin\Debug\net10.0\PuntajeVideojuego.dll
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\bin\Debug\net10.0\PuntajeVideojuego.pdb
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\PuntajeVideojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\PuntajeVideojuego.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\PuntajeVideojuego.AssemblyInfo.cs
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\PuntajeVideojuego.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\PuntajeVideojuego.dll
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\refint\PuntajeVideojuego.dll
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\PuntajeVideojuego.pdb
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\PuntajeVideojuego.genruntimeconfig.cache
+C:\Users\USER\Desktop\Grupo6Semana9\PuntajeVideojuego\obj\Debug\net10.0\ref\PuntajeVideojuego.dll
